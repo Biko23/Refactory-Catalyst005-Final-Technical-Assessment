@@ -1,0 +1,11 @@
+.imglogo{
+    width: inherit;
+    height: inherit;
+}
+
+.center{
+    text-align: center;
+}
+.btnRight{
+    float: right;
+}
